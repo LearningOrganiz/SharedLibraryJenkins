@@ -1,11 +1,11 @@
-def sum(a,b){
-print "addation of ${a} and ${b} is ${a+b}"
+def sum(a, b) {
+    println "Addition of ${a} and ${b} is ${a + b}"
 }
 
-def multplication(q,w){
-print "multiplication of ${q} and ${w} is ${q*w}"
+def multiplication(q, w) {
+    println "Multiplication of ${q} and ${w} is ${q * w}"
 }
 
-def sub(x,y){
-print "subtraction of ${x} and ${y} is ${x-y}"
+def sub(x, y) {
+    println "Subtraction of ${x} and ${y} is ${x - y}"
 }
